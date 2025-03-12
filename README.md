@@ -9,21 +9,13 @@ A minimalist mobile app made with **React Native, AsyncStorage, and Expo**. The 
 - If you release too early, you must restart that level.  
 - Unlock all 12 levels and prove your patience!  
 
+## 🎥 Demo  
+[Watch the demo](https://screenrec.com/share/3TPKxSM4Aq)  
+
 ## ✨ Features  
 - **Minimalist design** – Clean UI with soft colors and smooth animations.  
 - **Simple gameplay** – Just press and hold.  
 - **Progress tracking** – See all unlocked levels on the home screen.  
 - **Playful commentary** – The game reminds you how much time you've wasted.  
-
-## 🚀 Built With  
-- **React Native** – For cross-platform mobile development.  
-- **Expo** – To streamline development and deployment.  
-- **AsyncStorage** – To save unlocked levels persistently.  
-
-## 🛠️ How to Play  
-1. Open the app and start from **Level 1**.  
-2. Press and hold the button until the timer completes.  
-3. Each level increases the hold time by **5 seconds**.  
-4. Unlock all **12 levels** to fully waste your time!  
 
 Enjoy wasting time! ⏳  
